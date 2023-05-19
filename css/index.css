@@ -1,0 +1,6 @@
+Estilos para la boleta de compra 
+ .ticket {
+    border: 4px solid #d308a0;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
